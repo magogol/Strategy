@@ -1,0 +1,1 @@
+Realize the task with the help of the MagicType class using Strategy design pattern. The user can add different Magic, get its type and power. In this class there is a conjure() method that takes one parameter of type UseMagic(interface) and uses the countPower() method to count the power. The user can also define the type of Magic(Air/Fire Magic).
